@@ -1,4 +1,4 @@
-package com.chineeasy.tangwidget;
+package com.chineeeasy.tangwidget;
 
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
@@ -15,7 +15,7 @@ import java.util.List;
 
 public class IdiomWidgetProvider extends AppWidgetProvider {
 
-    private static final String PREFS_NAME = "com.chineeasy.tangwidget.IdiomWidgetProvider";
+    private static final String PREFS_NAME = "com.chineeeasy.tangwidget.IdiomWidgetProvider";
     private static final String PREF_PREFIX_KEY = "idiom_";
     private static List<String[]> idioms;
 

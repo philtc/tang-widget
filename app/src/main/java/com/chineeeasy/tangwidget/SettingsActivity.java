@@ -1,4 +1,4 @@
-package com.chineeasy.tangwidget;
+package com.chineeeasy.tangwidget;
 
 import android.app.Activity;
 import android.app.AlertDialog;

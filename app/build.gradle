@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace 'com.chineeasy.tangwidget'
+    namespace 'com.chineeeasy.tangwidget'
     compileSdkVersion 34
 
     defaultConfig {
-        applicationId "com.chineeasy.tangwidget"
+        applicationId "com.chineeeasy.tangwidget"
         minSdkVersion 21
         targetSdkVersion 34
         versionCode 8
